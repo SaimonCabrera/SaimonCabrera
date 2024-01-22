@@ -7,7 +7,7 @@
 ## I'm a Computer Science Student!!
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning react js and node js
+- 🌱 I’m currently learning flutter
 - ✍️ Fun fact: I’m left handed
 
 <br />
